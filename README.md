@@ -1,5 +1,5 @@
 # KanjiCryptographic
-##About
+## About
 適当に作った暗号システムです。基本的には、共通鍵暗号方式みたいなノリのやつです。英語と数字の暗号文が汚いなって思ったので、全部漢字の暗号文にしてみました。
-##How to use
+## How to use
 クローンとかして、rubyが使える環境構築をして、ruby main.rbで実行できます。

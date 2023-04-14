@@ -22228,10 +22228,6 @@ $kanjiToNumberDictionary ={
 "祥" =>"9"
 }
 
-
-    def test
-        puts($numberToKanjiDictionary["000"])
-    end
     def changeSNumberToSKanji(iNumber)
         sNumberArrayUnfixed = iNumber.to_s.split("")
         sNumberArray = []
